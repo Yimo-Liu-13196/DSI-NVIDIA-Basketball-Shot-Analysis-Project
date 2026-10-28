@@ -3,3 +3,14 @@ sportsmot_download/
 .venv/
 venv/
 REFERENCES.md
+
+data/
+*.mp4
+*.avi
+*.tar.gz
+*.zip
+models/
+*.pt
+*.engine
+.ipynb_checkpoints/
+.DS_Store
